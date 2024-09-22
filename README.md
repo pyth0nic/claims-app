@@ -1,5 +1,5 @@
 # Insurance Claims Sample Project
-Utilises on react + bulma + react hooks + moment js + lodash + the excellent @lourenci/react-kanban library
+Utilises react + bulma + react hooks + moment js + lodash + the excellent @lourenci/react-kanban library
 
 # Reasoning
 * Bulma was used for ease of use and beauty of components.
